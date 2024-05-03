@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef ARRAY_HPP
-# define ARRAY_HPP
+#ifndef MUTANT_STACK_HPP
+# define MUTANT_STACK_HPP
 
 # define RESET	"\e[0m"
 # define RED	"\e[1;31m"
