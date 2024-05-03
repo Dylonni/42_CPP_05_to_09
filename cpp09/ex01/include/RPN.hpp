@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef BITCOIN_EXCHANGE_HPP
-# define BITCOIN_EXCHANGE_HPP
+#ifndef RPN_HPP
+# define RPN_HPP
 # define RESET	"\e[0m"
 # define RED	"\e[1;31m"
 # define GREEN	"\e[1;32m"
